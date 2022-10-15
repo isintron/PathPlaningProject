@@ -108,4 +108,4 @@ graph.disp_map(parents=parents, start=start, goal=goal)
 115: Point(1, 14) <- Point(2, 14)
 ```
 
-![Output]()
+![Output](https://github.com/isintron/PathPlaningProject/blob/main/Figure.png)
