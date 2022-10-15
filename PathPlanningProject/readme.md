@@ -1,7 +1,5 @@
 # 路径规划 Path Planning
 
-[TOC]
-
 ## 说明 Description
 
 本项目基于 Python 🐍 复现寻路算法教程 [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
@@ -110,4 +108,4 @@ graph.disp_map(parents=parents, start=start, goal=goal)
 115: Point(1, 14) <- Point(2, 14)
 ```
 
-@import "Figure.png"
+![Output]()
